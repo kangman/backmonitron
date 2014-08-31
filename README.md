@@ -1,0 +1,1 @@
+This project is to create a google app engine based web application that will monitoring the backup jobs of all client sites and display them on a real time charting dashboard.  It will show the status of jobs, details of the job, and other pertinent information to help troubleshoot or get a quick gauge of how backups are performing from client to client. 
